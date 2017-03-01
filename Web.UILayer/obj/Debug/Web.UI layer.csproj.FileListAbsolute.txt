@@ -1,0 +1,2 @@
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\obj\Debug\Web.UI layer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\obj\Debug\AOPConcept.dll

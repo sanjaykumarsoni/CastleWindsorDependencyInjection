@@ -1,0 +1,284 @@
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\DALayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Core.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Net.Http.Formatting.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Http.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Http.WebHost.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Mvc.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Razor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.WebPages.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.WebPages.Razor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\DALayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Core.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Net.Http.Formatting.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Http.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Http.WebHost.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Mvc.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.Razor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.WebPages.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\System.Web.WebPages.Razor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\obj\Debug\AOPConcept.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\obj\Debug\AOPConcept.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\AOPConcept.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\AOPConcept\bin\AOPConcept.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\AOPConcept.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\AOPConcept.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Core.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\DALayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Net.Http.Formatting.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.WebHost.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Mvc.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Razor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\DALayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Core.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Net.Http.Formatting.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.WebHost.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Mvc.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Razor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\obj\Debug\AOPConcept.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\Web.UILayer\obj\Debug\AOPConcept.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\obj\Debug\AOPConcept.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\AOPConcept.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\AOPConcept.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Core.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.Logging.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Windsor.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\CommonLayer.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\DALayer.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Net.Http.Formatting.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.WebHost.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Mvc.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Razor.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\DALayer.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\CommonLayer.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Core.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.Logging.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Castle.Windsor.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Net.Http.Formatting.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Http.WebHost.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Mvc.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.Razor.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.xml
+D:\AOP\TrailNew\Working Client&Server\wcf\Web.UILayer\obj\Debug\AOPConcept.pdb
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\AOPConcept.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\AOPConcept.pdb
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Core.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.Logging.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Windsor.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\CommonLayer.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\DALayer.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Net.Http.Formatting.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.WebHost.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Mvc.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Razor.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\DALayer.pdb
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.pdb
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\CommonLayer.pdb
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Core.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.Logging.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Windsor.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Net.Http.Formatting.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.WebHost.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Mvc.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Razor.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.xml
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\obj\Debug\AOPConcept.dll
+D:\AOP\TrailNew\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\obj\Debug\AOPConcept.pdb
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\AOPConcept.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\AOPConcept.pdb
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Antlr3.Runtime.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Core.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.Logging.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Windsor.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\CommonLayer.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\DALayer.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\EntityFramework.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Microsoft.Web.Infrastructure.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Newtonsoft.Json.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Net.Http.Formatting.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.WebHost.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Mvc.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Optimization.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Providers.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Razor.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\WebGrease.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\DALayer.pdb
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\EmployeeWcfServiceLibrary.pdb
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\CommonLayer.pdb
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Core.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.Logging.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Facilities.WcfIntegration.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Castle.Windsor.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\EntityFramework.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\Newtonsoft.Json.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Net.Http.Formatting.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Http.WebHost.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Mvc.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.Razor.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Deployment.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\bin\System.Web.WebPages.Razor.xml
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\obj\Debug\AOPConcept.dll
+D:\AOP\WorkingAOP\CastleWindsorComponentClient&ServerSide\wcf\Web.UILayer\obj\Debug\AOPConcept.pdb
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\AOPConcept.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\AOPConcept.pdb
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Antlr3.Runtime.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Core.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.Logging.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.WcfIntegration.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Windsor.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\CommonLayer.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\DALayer.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EmployeeWcfServiceLibrary.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EntityFramework.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Microsoft.Web.Infrastructure.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Newtonsoft.Json.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Net.Http.Formatting.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.WebHost.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Mvc.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Optimization.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Providers.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Razor.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Deployment.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Razor.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\WebGrease.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\DALayer.pdb
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EmployeeWcfServiceLibrary.pdb
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\CommonLayer.pdb
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Core.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.Logging.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.WcfIntegration.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Windsor.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EntityFramework.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Newtonsoft.Json.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Net.Http.Formatting.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.WebHost.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Mvc.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Razor.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Deployment.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Razor.xml
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\obj\Debug\AOPConcept.dll
+D:\AOP\CastleWindsorComponentClient&ServerSide\Web.UILayer\obj\Debug\AOPConcept.pdb
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\AOPConcept.dll.config
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\AOPConcept.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\AOPConcept.pdb
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Antlr3.Runtime.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Core.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\DALayer.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EntityFramework.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Newtonsoft.Json.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Net.Http.Formatting.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.WebHost.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Mvc.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Optimization.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Providers.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Razor.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Razor.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\WebGrease.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\DALayer.pdb
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Core.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\EntityFramework.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\Newtonsoft.Json.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Net.Http.Formatting.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Http.WebHost.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Mvc.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.Razor.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\bin\System.Web.WebPages.Razor.xml
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\obj\Debug\Web.UILayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\obj\Debug\AOPConcept.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\Web.UILayer\obj\Debug\AOPConcept.pdb

@@ -1,0 +1,4 @@
+D:\AOP\TrailNew\Working Client&Server\wcf\EntityLayer\bin\Debug\EntityLayer.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\EntityLayer\obj\Debug\EntityLayer.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\EntityLayer\obj\Debug\EntityLayer.pdb

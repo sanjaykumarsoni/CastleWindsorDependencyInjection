@@ -1,0 +1,9 @@
+This component is Created for the demo of logging, tracing and Exception Handling for client & server side separately.
+We have used Castle windsor for logging and tracing, And Faultexception for exception handling at WCF side.
+
+You need to create two files in your directory to logging and tracing the errors/methods. You can find brief details in attached Pdf file. 
+
+Note: the demo will give you some execption so that you can see the details in your respective text file.
+
+For More detail, go through the document provided along with this app. Or mail me here: sanjay.kumar@spanservices.com
+

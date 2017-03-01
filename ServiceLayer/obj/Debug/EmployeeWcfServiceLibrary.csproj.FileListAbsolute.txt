@@ -1,0 +1,101 @@
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll.config
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.pdb
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.pdb
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\log4net.dll
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.xml
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.xml
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.xml
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.xml
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\bin\Debug\log4net.xml
+D:\E- Drive\Patil\Dotnet\EmployeeWcfService\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll.config
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.xml
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.xml
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.dll
+C:\Users\sanjay.kumar\Desktop\WCF\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.pdb
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll.config
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.pdb
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.pdb
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.pdb
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.xml
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.xml
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.xml
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.xml
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.xml
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.csprojResolveAssemblyReference.cache
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.dll
+D:\AOP\Working Apps\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll.config
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.xml
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.xml
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\obj\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll.config
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\EmployeeWcfServiceLibrary.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Services.Logging.Log4netIntegration.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\DALayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Core.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\EmployeeWcfServiceLibrary\bin\Debug\log4net.xml

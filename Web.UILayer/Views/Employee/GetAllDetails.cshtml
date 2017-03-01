@@ -1,0 +1,43 @@
+﻿@model DALayer.EmployeeDetails
+
+@{
+    ViewBag.Title = "GetAllDetails";
+}
+
+<h2>GetAllDetails</h2>
+
+<fieldset>
+    <legend>EmployeeDetails</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EmployeeId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EmployeeId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EmployeeName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EmployeeName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Gender)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Gender)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.HireDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.HireDate)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

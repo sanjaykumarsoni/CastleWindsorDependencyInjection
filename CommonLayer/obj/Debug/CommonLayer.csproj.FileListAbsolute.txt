@@ -1,0 +1,42 @@
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Core.dll
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Facilities.Logging.dll
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Windsor.dll
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Core.xml
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Facilities.Logging.xml
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\bin\Debug\Castle.Windsor.xml
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\obj\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Documents\Visual Studio 2012\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\WCF\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\WCF\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\WCF\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\WCF\CommonLayer\obj\Debug\CommonLayer.pdb
+D:\AOP\Working Apps\CommonLayer\bin\Debug\CommonLayer.dll
+D:\AOP\Working Apps\CommonLayer\bin\Debug\CommonLayer.pdb
+D:\AOP\Working Apps\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+D:\AOP\Working Apps\CommonLayer\obj\Debug\CommonLayer.dll
+D:\AOP\Working Apps\CommonLayer\obj\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Apps\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Apps\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\Working Apps\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Apps\CommonLayer\obj\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\CommonLayer\obj\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\Working Client&Server\wcf\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+D:\AOP\TrailNew\Working Client&Server\wcf\CommonLayer\bin\Debug\CommonLayer.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\CommonLayer\bin\Debug\CommonLayer.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\CommonLayer\obj\Debug\CommonLayer.dll
+D:\AOP\TrailNew\Working Client&Server\wcf\CommonLayer\obj\Debug\CommonLayer.pdb
+D:\AOP\TrailNew\Working Client&Server\wcf\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\CommonLayer\bin\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\CommonLayer\bin\Debug\CommonLayer.pdb
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\CommonLayer\obj\Debug\CommonLayer.csprojResolveAssemblyReference.cache
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\CommonLayer\obj\Debug\CommonLayer.dll
+C:\Users\sanjay.kumar\Desktop\CastleWindsorComponentClient&ServerSide\CommonLayer\obj\Debug\CommonLayer.pdb
